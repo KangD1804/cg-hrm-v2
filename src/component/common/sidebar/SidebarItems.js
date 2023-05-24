@@ -1,6 +1,5 @@
 import React from 'react';
 import SidebarItemHeader from "./SidebarItemHeader";
-import SidebarLinkCollapsed from "./SidebarLinkCollapsed";
 import SidebarLinkNoCollapsed from "./SidebarLinkNoCollapsed";
 
 const  SidebarItems = () => {
